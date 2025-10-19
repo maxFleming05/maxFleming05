@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Max, and I am a 19 year old data scientist who also loves 
-creating visual projects using Processing and P5JS.
+My name is Max, and I am a 20 year old compsci major who also loves building small passion projects Processing, P5JS, and Python
 
 <!--
 **maxFleming05/maxFleming05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
